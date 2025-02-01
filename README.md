@@ -20,19 +20,25 @@
 <br>- Programming languages (C, C++, HTML, CSS, JavaScript)
 <br>- Microsoft Office (Word, Excel, PowerPoint)
 
-<br><h3>Academic Projects:</h3>
+<br><h3>ACADEMIC PROJECTS:</h3>
 <br><b>Flappy Bird Game</b>
 <br>- using C++ and SFML
 <br>- December 2024
-
 <br><b>StopWatch</b>
 <br>- Using Proteus Software
 <br>- May 2024
-
 <br><b>Educational Website</b>
 <br>- Using HTML&CSS only
 <br>- December 2023
-
 <br><b>Generating electricity through wind</b>
 <br>- Using Electronics and Circuitry
 <br>- October 2022
+<br><h3>VOLUNTEER WORK:</h3>
+<br><b>Campus Ambassador, AICP</b>
+<br>- Represented the organization on campus, promoting AI and computer programming initiatives.
+<br><b>Volunteer, KIIR</b>
+<br>- Contributed to the "Building Sustainable Future" initiative, promoting sustainability and environmental awareness.
+<br><b>Member, Green Youth Movement Club</b>
+<br>- Participated in environmental conservation efforts and promoted eco-friendly practices.
+<br><b>Volunteer, Al Khidmat Foundation</b>
+<br>- Contributed to humanitarian efforts and community development projects.
