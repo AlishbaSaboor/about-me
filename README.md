@@ -31,15 +31,23 @@
 <br>- Using Electronics and Circuitry
 <br>- October 2022
 <br><h3>VOLUNTEER WORK:</h3>
-<br><b>1. Campus Ambassador, AICP</b>
+<br><b>1. Campus Ambassador, Artificial Intelligence Community Pakistan</b>
 <br>- Represented the organization on campus, promoting AI and computer programming initiatives.
-<br><b>2. Volunteer, KIIR</b>
+<br>- September 2024 - September 2025
+<br><b>2. Volunteer, Kashmir Institute Of International Relations</b>
 <br>- Contributed to the "Building Sustainable Future" initiative, promoting sustainability and environmental awareness.
+<br>- December 2023
 <br><b>3. Member, Green Youth Movement Club</b>
 <br>- Participated in environmental conservation efforts and promoted eco-friendly practices.
+<br>- September 2023 - present
 <br><b>4. Volunteer, Al Khidmat Foundation</b>
 <br>- Contributed to humanitarian efforts and community development projects.
+<br>- August 2023
 <br><h3>Technical Courses:</h3>
-<br><b>1.Wordpress Web Designing</b>
+<br><b>1. Wordpress Web Designing</b>
 <br>- National Freelance Training Program
-<br>- January 2024- April 2024
+<br>- January 2024 - April 2024
+<br><h3>HOBBIES:</h3>
+<br>- E-gaming
+<br>- Puzzle solving
+<br>- Solo travelling
